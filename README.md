@@ -19,18 +19,9 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Muhammad Farhan Hidayatulloh**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang Mahasiswa Jurusan Sistem Informasi di UPN "Veteran" Jawa Timur.<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya tertarik dengan teknologi terutama di bidang Pemrograman Web .<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhfarhan90/)ku ya.
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/Muhfarhan90">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
